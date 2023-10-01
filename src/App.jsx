@@ -1,8 +1,6 @@
 import "./styles.css"
 import { useState } from "react"
 
-//use npm run dev to start application
-
 
 export default function App() {
 
